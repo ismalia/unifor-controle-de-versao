@@ -1,0 +1,3 @@
+[submodule "lab8/git-lab"]
+	path = lab8/git-lab
+	url = https://github.com/ismalia/git-lab.git
