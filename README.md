@@ -12,3 +12,9 @@ Repositório com os laboratórios da disciplina **Controle de versão e gerencia
 | [lab4](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab4) | Configurando o arquivo .gitignore para arquivos de variáveis de ambiente |
 | [lab5](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab5) | Executando um script Python com arquivo .env no terminal do Git no Windows |
 | [lab6](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab6) | Utilizando Git Tags |
+
+## Laboratória Aula 3
+
+| Pasta | Laboratório |
+| ----- | ----------- |
+| [lab7](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab7) | Criando um Fork no GitHub |
