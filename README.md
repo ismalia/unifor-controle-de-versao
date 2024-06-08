@@ -6,17 +6,17 @@ Repositório com os laboratórios da disciplina **Controle de versão e gerencia
 
 | Pasta | Laboratório |
 | ----- | ----------- |
-| [lab1](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab1) | Trabalhando com Git |
-| [lab2](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab2) | Gerenciando Ambientes com Git e HTML |
-| [lab3](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab3) | Resolvendo conflitos com Git |
-| [lab4](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab4) | Configurando o arquivo .gitignore para arquivos de variáveis de ambiente |
-| [lab5](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab5) | Executando um script Python com arquivo .env no terminal do Git no Windows |
-| [lab6](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab6) | Utilizando Git Tags |
+| [lab01](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab01) | Trabalhando com Git |
+| [lab02](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab02) | Gerenciando Ambientes com Git e HTML |
+| [lab03](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab03) | Resolvendo conflitos com Git |
+| [lab04](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab04) | Configurando o arquivo .gitignore para arquivos de variáveis de ambiente |
+| [lab05](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab05) | Executando um script Python com arquivo .env no terminal do Git no Windows |
+| [lab06](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab06) | Utilizando Git Tags |
 
 ## Laboratória Aula 3
 
 | Pasta | Laboratório |
 | ----- | ----------- |
-| [lab7](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab7) | Criando um Fork no GitHub |
-| [lab8](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab8) | Utilizando Pull Requests no GitHub |
-| [lab9](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab9) | Utilizando o comando Git rebase |
+| [lab07](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab07) | Criando um Fork no GitHub |
+| [lab08](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab08) | Utilizando Pull Requests no GitHub |
+| [lab09](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab09) | Utilizando o comando Git rebase |
