@@ -19,4 +19,4 @@ Repositório com os laboratórios da disciplina **Controle de versão e gerencia
 | ----- | ----------- |
 | [lab7](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab7) | Criando um Fork no GitHub |
 | [lab8](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab8) | Utilizando Pull Requests no GitHub |
-| [lab9](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab8) | Utilizando o comando Git rebase |
+| [lab9](https://github.com/ismalia/unifor-controle-de-versao/tree/main/lab9) | Utilizando o comando Git rebase |
